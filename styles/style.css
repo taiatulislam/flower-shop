@@ -102,7 +102,6 @@
 .latest-deals-para {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
-
 }
 
 .latest-search {
@@ -112,4 +111,29 @@
     border-radius: 10px;
     margin-right: 10px;
     padding-left: 20px;
+}
+
+/* Footer section */
+.footer {
+    text-align: center;
+    background-color: #111010;
+    color: white;
+    padding: 100px 450px;
+}
+
+.footer-title {
+    font-size: 48px;
+    font-weight: 900;
+    margin-bottom: 25px;
+}
+
+.footer-para {
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.90);
+    margin-bottom: 32px;
+}
+
+.copyright {
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
 }
