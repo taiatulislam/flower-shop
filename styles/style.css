@@ -78,6 +78,40 @@
     font-size: 18px;
 }
 
+/* Instagram section */
+.instagram {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.insta-title {
+    font-size: 40px;
+    font-weight: 900;
+    color: #272727;
+    margin-bottom: 24px;
+}
+
+.insta-para {
+    font-size: 18px;
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 32px;
+}
+
+.insta-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.insta-image {
+    margin-right: 20px;
+}
+
+.insta-flower {
+    width: 100%;
+}
+
 /* Latest deals */
 .latest-deals {
     width: 80%;
@@ -115,6 +149,7 @@
 
 /* Footer section */
 .footer {
+    margin-top: 50px;
     text-align: center;
     background-color: #111010;
     color: white;
