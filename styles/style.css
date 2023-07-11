@@ -8,8 +8,20 @@
     color: #E55473;
 }
 
+.primary-title {
+    font-size: 40px;
+    font-weight: 900;
+    color: #272727;
+}
+
+.primary-para {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
 .btn-primary {
-    margin-top: 32px;
     padding: 20px 43px;
     border-radius: 8px;
     background-color: #E55473;
@@ -34,15 +46,8 @@
 
 .banner-title {
     color: #272727;
-    font-family: Lato;
     font-size: 60px;
     font-weight: 900;
-}
-
-.banner-para {
-    color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
-    margin-top: 32px;
 }
 
 .banner-image {
@@ -59,26 +64,13 @@
     margin: auto;
     text-align: center;
     margin-top: 200px;
-    margin-bottom: 100px;
-}
-
-.featured-title {
-    font-size: 40px;
-    font-weight: 900;
-    color: #272727;
-}
-
-.featured-para {
-    margin-top: 24px;
-    font-size: 18px;
-    color: rgba(39, 39, 39, 0.60);
-    margin-bottom: 50px;
 }
 
 .featured-flower-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 50px;
 }
 
 .featured-box {
@@ -130,14 +122,14 @@
     width: 80%;
     margin: auto;
     text-align: center;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 200px;
 }
 
 .indoor-plants-container {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-top: 50px;
 }
 
 .plant-box {
@@ -146,7 +138,7 @@
 }
 
 .plant {
-    width: 300px;
+    width: 280px;
     height: 350px;
 }
 
@@ -181,37 +173,13 @@
     text-align: center;
 }
 
-.deals-title {
-    font-size: 40px;
-    font-weight: 900;
-    margin-bottom: 25px;
-}
-
-.deals-para {
-    color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
-}
-
 /* Instagram section */
 .instagram {
     width: 80%;
     margin: auto;
     text-align: center;
-    margin-top: 150px;
-    margin-bottom: 75px;
-}
-
-.insta-title {
-    font-size: 40px;
-    font-weight: 900;
-    color: #272727;
-    margin-bottom: 24px;
-}
-
-.insta-para {
-    font-size: 18px;
-    color: rgba(39, 39, 39, 0.60);
-    margin-bottom: 32px;
+    margin-top: 125px;
+    margin-bottom: 40px;
 }
 
 .insta-container {
@@ -241,16 +209,6 @@
 .latest-deals-container {
     text-align: center;
     padding: 100px 200px;
-}
-
-.latest-deals-title {
-    font-size: 40px;
-    font-weight: 900;
-}
-
-.latest-deals-para {
-    color: rgba(39, 39, 39, 0.60);
-    font-size: 18px;
 }
 
 .latest-search {
